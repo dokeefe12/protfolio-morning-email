@@ -26,5 +26,9 @@
   {
     "ticker": "SCHK",
     "shares": 6
+  },
+  {
+    "ticker": "SWPPX",
+    "shares": 3
   }
 ]

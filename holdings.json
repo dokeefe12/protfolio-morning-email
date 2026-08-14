@@ -4,31 +4,15 @@
     "shares": 3
   },
   {
-    "ticker": "AIQ",
-    "shares": 4
-  },
-  {
     "ticker": "VDE",
-    "shares": 2
-  },
-  {
-    "ticker": "SHLD",
-    "shares": 2
+    "shares": 1
   },
   {
     "ticker": "AUR",
     "shares": 6
   },
   {
-    "ticker": "SOFI",
-    "shares": 3
-  },
-  {
-    "ticker": "SCHK",
-    "shares": 6
-  },
-  {
     "ticker": "SWPPX",
-    "shares": 3
+    "shares": 44.65
   }
 ]
